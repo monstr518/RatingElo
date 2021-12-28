@@ -1,2 +1,4 @@
 # RatingElo
 ComputeRatingELO
+
+node computerating
